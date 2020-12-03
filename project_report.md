@@ -17,7 +17,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;本实验采用Pytorch机器学习工具搭建BP神经网络训练Iris数据。
 3. **运行结果**：
     - **线性回归模型——正规方程法结果**
-     ![avatar](F:\Microsoft-ai-edu-main\project_easy\result_matrix.png)
+     ![avatar](http://note.youdao.com/s/OV3OmyiJ)
    
     - **线性回归模型——sklearn方法结果**
     ![avatar](F:\Microsoft-ai-edu-main\project_easy\result_sklearn.png)
